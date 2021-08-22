@@ -2,6 +2,7 @@
 
 ##### Changelog
 
+- Se cambio de Babel a Typescript
 - Se implementa el Chat de soporte via websocket
 - Nueva Clase para mensajes
 - Rediseño del main para soportar el chat
